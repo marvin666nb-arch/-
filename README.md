@@ -4,6 +4,16 @@
 
 当前版本已取消登录、付费、会员和次数限制。所有工具打开即可使用，TXT、CSV、Excel、Word、PDF、ZIP 等导出功能可直接点击下载。
 
+## 下载链接
+
+项目上传到 GitHub 后，把下面链接中的 `你的GitHub用户名` 和 `仓库名` 替换成自己的信息。用户在 GitHub README 页面点击蓝色文字即可下载源码压缩包：
+
+[点击下载源码 ZIP](https://github.com/你的GitHub用户名/仓库名/archive/refs/heads/main.zip)
+
+如果已经开启 GitHub Pages，网站访问地址通常是：
+
+[点击访问在线网站](https://你的GitHub用户名.github.io/仓库名/)
+
 ## 功能分类
 
 - 文本处理：文本去重、文本分割、文本合并、批量替换、HTML 转纯文本、段落排版、文本脱敏、字数统计等。
