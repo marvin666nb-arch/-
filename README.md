@@ -6,9 +6,9 @@
 
 ## 下载链接
 
-项目上传到 GitHub Pages 后，把下面链接中的 `你的GitHub用户名` 和 `仓库名` 替换成自己的信息。用户在 GitHub README 页面点击蓝色文字会自动开始下载源码 ZIP：
+用户在 GitHub README 页面点击下面的蓝色文字，会直接下载源码 ZIP 文件：
 
-[点击自动下载源码 ZIP](https://你的GitHub用户名.github.io/仓库名/download.html)
+[点击自动下载源码 ZIP](./programmer-toolbox.zip?raw=1)
 
 如果已经开启 GitHub Pages，网站访问地址通常是：
 
