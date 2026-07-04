@@ -6,9 +6,9 @@
 
 ## 下载链接
 
-用户在 GitHub README 页面点击下面的蓝色文字，会直接下载源码 ZIP 文件：
+用户在 GitHub README 页面点击下面的蓝色文字，会直接下载当前仓库的完整源码 ZIP 文件，不需要改用户名，不需要改仓库名：
 
-[点击自动下载源码 ZIP](./programmer-toolbox.zip?raw=1)
+[点击自动下载源码 ZIP](archive/refs/heads/main.zip)
 
 如果已经开启 GitHub Pages，网站访问地址通常是：
 
